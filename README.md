@@ -1,2 +1,2 @@
-# ola_mundo
- repositorio curso em video
+# Olá, mundo!
+ repositorio curso em video!
